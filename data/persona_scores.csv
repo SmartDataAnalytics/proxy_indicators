@@ -1,0 +1,97 @@
+eval,pears,pears_p,spear,spear_p
+cola-Understandable,0.0318,0.5828,0.0673,0.2451
+cola-Natural,0.0838,0.1475,-0.0309,0.5945
+cola-Maintains Context,-0.0862,0.1365,-0.1935,0.0008
+cola-Engaging,-0.0665,0.251,-0.1568,0.0065
+cola-Uses Knowledge,-0.019,0.7425,-0.1403,0.015
+cola-Overall,-0.0252,0.6635,-0.1931,0.0008
+sst-Understandable,0.0743,0.1996,0.0723,0.2119
+sst-Natural,-0.0064,0.9119,0.0294,0.6123
+sst-Maintains Context,0.076,0.189,0.0988,0.0875
+sst-Engaging,0.153,0.008,0.1242,0.0315
+sst-Uses Knowledge,0.0422,0.4663,-0.0034,0.9531
+sst-Overall,0.1172,0.0424,0.1068,0.0647
+mrpc-Understandable,0.0857,0.1385,0.1098,0.0574
+mrpc-Natural,0.1794,0.0018,0.241,0.0
+mrpc-Maintains Context,0.3129,0.0,0.3684,0.0
+mrpc-Engaging,-0.1266,0.0284,0.0695,0.2301
+mrpc-Uses Knowledge,-0.0656,0.2574,-0.0112,0.8468
+mrpc-Overall,0.1959,0.0006,0.2576,0.0
+qnli-Understandable,-0.1356,0.0188,-0.1434,0.0129
+qnli-Natural,-0.1821,0.0015,-0.2058,0.0003
+qnli-Maintains Context,-0.3795,0.0,-0.3982,0.0
+qnli-Engaging,0.0163,0.778,0.0318,0.5832
+qnli-Uses Knowledge,-0.043,0.458,-0.049,0.3981
+qnli-Overall,-0.2553,0.0,-0.2434,0.0
+qqp-Understandable,0.0529,0.3613,0.083,0.1514
+qqp-Natural,0.1071,0.0639,0.1857,0.0012
+qqp-Maintains Context,0.1646,0.0043,0.3472,0.0
+qqp-Engaging,-0.3205,0.0,-0.0071,0.9029
+qqp-Uses Knowledge,-0.1725,0.0027,0.0208,0.7198
+qqp-Overall,0.0276,0.6345,0.2125,0.0002
+rte-Understandable,-0.0519,0.3704,-0.0976,0.0916
+rte-Natural,-0.071,0.22,-0.1184,0.0404
+rte-Maintains Context,-0.2789,0.0,-0.2999,0.0
+rte-Engaging,0.1131,0.0503,0.1269,0.028
+rte-Uses Knowledge,0.0752,0.1939,0.0827,0.1531
+rte-Overall,-0.0842,0.1459,-0.0766,0.186
+stsb-Understandable,0.1286,0.0259,0.1159,0.0448
+stsb-Natural,0.114,0.0486,0.1317,0.0225
+stsb-Maintains Context,0.362,0.0,0.3463,0.0
+stsb-Engaging,0.0889,0.1242,0.0805,0.1645
+stsb-Uses Knowledge,0.0988,0.0877,0.0828,0.1525
+stsb-Overall,0.2591,0.0,0.2396,0.0
+fact_mrpc-Understandable,0.1219,0.0349,0.1938,0.0007
+fact_mrpc-Natural,0.0417,0.4721,0.055,0.3425
+fact_mrpc-Maintains Context,0.0252,0.6642,-0.0532,0.3589
+fact_mrpc-Engaging,0.1302,0.0241,0.0461,0.4265
+fact_mrpc-Uses Knowledge,-0.0046,0.9367,-0.0571,0.3247
+fact_mrpc-Overall,0.0149,0.7972,-0.0726,0.2101
+fact_qnli-Understandable,-0.1256,0.0296,-0.1494,0.0095
+fact_qnli-Natural,-0.0642,0.2674,-0.0584,0.3131
+fact_qnli-Maintains Context,-0.1478,0.0103,-0.1014,0.0794
+fact_qnli-Engaging,-0.1157,0.0453,-0.0817,0.1583
+fact_qnli-Uses Knowledge,-0.2733,0.0,-0.2613,0.0
+fact_qnli-Overall,-0.1899,0.0009,-0.1734,0.0026
+fact_qqp-Understandable,0.0476,0.4113,-0.0767,0.185
+fact_qqp-Natural,0.0762,0.1881,-0.0591,0.3072
+fact_qqp-Maintains Context,0.0397,0.4936,0.0774,0.1813
+fact_qqp-Engaging,0.14,0.0152,0.1365,0.018
+fact_qqp-Uses Knowledge,0.2099,0.0003,0.4352,0.0
+fact_qqp-Overall,0.1613,0.0051,0.223,0.0001
+fact_rte-Understandable,-0.0296,0.6098,-0.0914,0.1142
+fact_rte-Natural,0.0289,0.6181,0.0305,0.5993
+fact_rte-Maintains Context,-0.0371,0.5225,-0.0041,0.944
+fact_rte-Engaging,-0.1091,0.0591,-0.0726,0.21
+fact_rte-Uses Knowledge,-0.4052,0.0,-0.3481,0.0
+fact_rte-Overall,-0.1232,0.033,-0.1122,0.0522
+fact_stsb-Understandable,0.025,0.666,0.0307,0.5961
+fact_stsb-Natural,0.0302,0.6025,-0.0032,0.9555
+fact_stsb-Maintains Context,0.1537,0.0077,0.0876,0.13
+fact_stsb-Engaging,0.3419,0.0,0.3378,0.0
+fact_stsb-Uses Knowledge,0.7329,0.0,0.7173,0.0
+fact_stsb-Overall,0.3742,0.0,0.3898,0.0
+lin-reg_pair-Understandable,0.1626,0.0047,0.1345,0.0198
+lin-reg_pair-Natural,0.2033,0.0004,0.216,0.0002
+lin-reg_pair-Maintains Context,0.4178,0.0,0.3981,0.0
+lin-reg_pair-Engaging,0.2185,0.0001,0.2216,0.0001
+lin-reg_pair-Uses Knowledge,0.1909,0.0009,0.1916,0.0009
+lin-reg_pair-Overall,0.3975,0.0,0.3802,0.0
+lin-reg_fact-Understandable,0.0255,0.6606,0.0328,0.572
+lin-reg_fact-Natural,0.0546,0.3456,0.0319,0.5823
+lin-reg_fact-Maintains Context,0.1783,0.0019,0.111,0.0548
+lin-reg_fact-Engaging,0.3446,0.0,0.3412,0.0
+lin-reg_fact-Uses Knowledge,0.6959,0.0,0.702,0.0
+lin-reg_fact-Overall,0.399,0.0,0.4135,0.0
+lin-reg_single-Understandable,0.0643,0.2668,0.0603,0.2978
+lin-reg_single-Natural,-0.0285,0.6226,0.0302,0.6024
+lin-reg_single-Maintains Context,0.0974,0.0922,0.1012,0.0801
+lin-reg_single-Engaging,0.1675,0.0036,0.1597,0.0056
+lin-reg_single-Uses Knowledge,0.0464,0.423,0.0644,0.2661
+lin-reg_single-Overall,0.1216,0.0353,0.1263,0.0287
+lin-reg_all-Understandable,0.1214,0.0355,0.1218,0.035
+lin-reg_all-Natural,0.1728,0.0027,0.2044,0.0004
+lin-reg_all-Maintains Context,0.4029,0.0,0.3707,0.0
+lin-reg_all-Engaging,0.3272,0.0,0.3306,0.0
+lin-reg_all-Uses Knowledge,0.5921,0.0,0.5898,0.0
+lin-reg_all-Overall,0.529,0.0,0.5382,0.0
